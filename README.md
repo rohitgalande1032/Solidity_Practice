@@ -1,6 +1,5 @@
-# Here is list of most important solidity Question that soved in this file
+# Here is list of most important solidity Questions
 
-Solidity Questions
 
 Write a Solidity function to transfer tokens from one address to another.
 
